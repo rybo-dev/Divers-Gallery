@@ -1,0 +1,71 @@
+{
+    "bundles" : [
+        {
+            "name" : "menu",
+            "assets" : [
+                {
+                    "alias" : "menu_bg",
+                    "src" : "assets/images/menu.png"
+                },
+                {
+                    "alias" : "album_click",
+                    "src" : "assets/images/menu_album.png"
+                },
+                {
+                    "alias" : "album",
+                    "src" : "assets/images/album.png"
+                },
+                {
+                    "alias" : "back_button",
+                    "src" : "assets/images/back_button.png"
+                },
+                {
+                    "alias" : "select_level_1",
+                    "src" : "assets/images/level_select1.png"
+                },
+                {
+                    "alias" : "select_level_2",
+                    "src" : "assets/images/level_select2.png"
+                },
+                {
+                    "alias" : "album_right_arrow",
+                    "src" : "assets/images/album_right.png"
+                },
+                {
+                    "alias" : "album_left_arrow",
+                    "src" : "assets/images/album_left.png"
+                }
+            ]
+        },
+        {
+            "name" : "sea_scene",
+            "assets" : [
+                {
+                    "alias" : "sea_bg",
+                    "src" : "assets/images/background.png"
+                },
+                {
+                    "alias" : "miku",
+                    "src" : "assets/images/migu.png"
+                },
+                {
+                    "alias" : "camera_snap",
+                    "src" : "assets/images/Camera_snap.png"
+                }
+            ]
+        },
+        {
+            "name" : "fishes",
+            "assets" : [
+                {
+                    "alias" : "fish1",
+                    "src" : "assets/images/fish1.png"
+                },
+                {
+                    "alias" : "fish2",
+                    "src" : "assets/images/fish2.png"
+                }
+            ]
+        }
+    ]
+}
