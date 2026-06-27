@@ -28,7 +28,7 @@ import { FISH_SPECIES, FISH_TYPE, SPAWNER_SETTINGS } from "./fish_config.js";
 // import { Sardine   } from "../entities/species/Sardine.js";
 // import { Pufferfish } from "../entities/species/Pufferfish.js";
 // import { Jellyfish  } from "../entities/species/Jellyfish.js";
-import { Fish1 } from "./Fish1.js";
+import { Fish1 } from "./fish1.js";
 import { Fish2 } from "./fish2.js";
 // ... add more as you create them
 

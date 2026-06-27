@@ -19,5 +19,5 @@ import * as Menu from "./scenes/menu.js";
 
     init(app);
 
-    switchTo(DivingScene);
+    switchTo(Menu);
 })();
