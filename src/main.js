@@ -15,7 +15,7 @@ import * as Menu from "./scenes/menu.js";
 
     document.body.appendChild(app.canvas);
 
-    await Assets.init({manifest: "assets/manifest.json"});
+    await Assets.init({manifest: `${import.meta.env.BASE_URL}assets/manifest.json` });
 
     init(app);
 
